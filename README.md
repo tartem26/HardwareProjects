@@ -1,4 +1,4 @@
-# Welcome!
+## Welcome!
 HardwareProjects is a repository that contains some of my most relevant and recent projects in the embedded systems engineering field.
 
 Below, there is a brief explanation of the following projects:
